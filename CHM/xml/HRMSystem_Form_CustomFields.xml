@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "CustomFields.aspx" Text = "CustomFields.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_CustomFields.jpg" HtmlFileName="HRMSystem_Form_CustomFields.htm" HelpContextId = "600" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "CustomFields.aspx" >
+<Controls>
+  <clsWinFormControl Name = "chkCustomFields" Text = "chkCustomFields" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "610" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkCustomFields" />
+  <clsWinFormControl Name = "btnCustomFieldsDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "620" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnCustomFieldsAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "630" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "ValidationSummary1" Text = "ValidationSummary1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "640" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary1" />
+  <clsWinFormControl Name = "btnCustomFieldsEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "650" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "cmbFieldType" Text = "cmbFieldType" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "660" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbFieldType" />
+  <clsWinFormControl Name = "txtFieldName" Text = "txtFieldName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "670" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtFieldName" />
+  <clsWinFormControl Name = "cmbFieldNumber" Text = "cmbFieldNumber" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "680" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbFieldNumber" />
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "690" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "700" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "710" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="chkCustomFields" Bmk="chkCustomFields" Caption="chkCustomFields"  />
+<Item  Name="btnCustomFieldsDelete" Bmk="btnCustomFieldsDelete" Caption="Delete"  />
+<Item  Name="btnCustomFieldsAdd" Bmk="btnCustomFieldsAdd" Caption="Add"  />
+<Item  Name="ValidationSummary1" Bmk="ValidationSummary1" Caption="ValidationSummary1"  />
+<Item  Name="btnCustomFieldsEditSave" Bmk="btnCustomFieldsEditSave" Caption="Edit"  />
+<Item  Name="cmbFieldType" Bmk="cmbFieldType" Caption="cmbFieldType"  />
+<Item  Name="txtFieldName" Bmk="txtFieldName" Caption="txtFieldName"  />
+<Item  Name="cmbFieldNumber" Bmk="cmbFieldNumber" Caption="cmbFieldNumber"  />
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>

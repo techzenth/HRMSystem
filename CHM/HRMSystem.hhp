@@ -1,0 +1,77 @@
+[Options]
+Binary index = No
+Compatibility = 1.1 Or later
+Compiled file = HRMSystem.chm
+Contents file = HRMSystem.hhc
+index file = HRMSystem.hhk
+Default Topic = Welcome.htm
+Display compile progress=Yes
+Full-text search=Yes
+Title=HRMSystem
+[Files]
+Copyright.htm
+Dialogs.htm
+GettingStarted.htm
+HRMSystemTOC.htm
+HRMSystem_Form_ChangePassword.htm
+HRMSystem_Form_CompanyInfo.htm
+HRMSystem_Form_CustomFields.htm
+HRMSystem_Form_Default.htm
+HRMSystem_Form_Email_Notification.htm
+HRMSystem_Form_Employee.htm
+HRMSystem_Form_Help.htm
+HRMSystem_Form_Import_Export.htm
+HRMSystem_Form_Job.htm
+HRMSystem_Form_Login.htm
+HRMSystem_Form_Logout.htm
+HRMSystem_Form_Membership.htm
+HRMSystem_Form_Nationaity_Race.htm
+HRMSystem_Form_ProjectInfo.htm
+HRMSystem_Form_Qualification.htm
+HRMSystem_Form_Recruitment.htm
+HRMSystem_Form_Skills.htm
+HRMSystem_Form_Users.htm
+Installation.htm
+Registration.htm
+ss.html
+StartingTheProgram.htm
+Support.htm
+Tutorial.htm
+Welcome.htm
+
+[ALIAS]
+IDH_Copyright=Copyright.htm
+IDH_Dialogs=Dialogs.htm
+IDH_GettingStarted=GettingStarted.htm
+IDH_HRMSystemTOC=HRMSystemTOC.htm
+IDH_HRMSystem_Form_ChangePassword=HRMSystem_Form_ChangePassword.htm
+IDH_HRMSystem_Form_CompanyInfo=HRMSystem_Form_CompanyInfo.htm
+IDH_HRMSystem_Form_CustomFields=HRMSystem_Form_CustomFields.htm
+IDH_HRMSystem_Form_Default=HRMSystem_Form_Default.htm
+IDH_HRMSystem_Form_Email_Notification=HRMSystem_Form_Email_Notification.htm
+IDH_HRMSystem_Form_Employee=HRMSystem_Form_Employee.htm
+IDH_HRMSystem_Form_Help=HRMSystem_Form_Help.htm
+IDH_HRMSystem_Form_Import_Export=HRMSystem_Form_Import_Export.htm
+IDH_HRMSystem_Form_Job=HRMSystem_Form_Job.htm
+IDH_HRMSystem_Form_Login=HRMSystem_Form_Login.htm
+IDH_HRMSystem_Form_Logout=HRMSystem_Form_Logout.htm
+IDH_HRMSystem_Form_Membership=HRMSystem_Form_Membership.htm
+IDH_HRMSystem_Form_Nationaity_Race=HRMSystem_Form_Nationaity_Race.htm
+IDH_HRMSystem_Form_ProjectInfo=HRMSystem_Form_ProjectInfo.htm
+IDH_HRMSystem_Form_Qualification=HRMSystem_Form_Qualification.htm
+IDH_HRMSystem_Form_Recruitment=HRMSystem_Form_Recruitment.htm
+IDH_HRMSystem_Form_Skills=HRMSystem_Form_Skills.htm
+IDH_HRMSystem_Form_Users=HRMSystem_Form_Users.htm
+IDH_Installation=Installation.htm
+IDH_Registration=Registration.htm
+IDH_ss=ss.html
+IDH_StartingTheProgram=StartingTheProgram.htm
+IDH_Support=Support.htm
+IDH_Tutorial=Tutorial.htm
+IDH_Welcome=Welcome.htm
+
+[MAP]
+#include HRMSystem.h
+[TEXT POPUPS]
+#include HRMSystem.h
+#include HRMSystem.txt

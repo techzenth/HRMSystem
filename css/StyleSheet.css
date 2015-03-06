@@ -1,0 +1,42 @@
+﻿body 
+{
+    margin: 0 0 0 0;
+          
+}
+
+.txtLine
+{
+    border-top-style: none; 
+    border-right-style: none;
+    border-left-style: none; 
+    border-bottom-color: #000000;
+    height: 20px;
+}
+
+.errorText
+{
+    color: #ff0000;    
+}
+ .updatelink
+ {
+    color: #000000;
+    text-decoration: none;    
+ }
+a.updatelink:hover
+{
+    text-decoration: underline;
+}
+ .textLeft
+        {
+            text-align: left;
+        }      
+       
+        .textRight
+        {
+            text-align: right;
+        }
+        .textCenter
+        {
+            text-align: center;
+            
+        }

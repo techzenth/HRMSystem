@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Email_Notification.aspx" Text = "Email_Notification.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Email_Notification.jpg" HtmlFileName="HRMSystem_Form_Email_Notification.htm" HelpContextId = "760" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Email_Notification.aspx" >
+<Controls>
+  <clsWinFormControl Name = "valSummary" Text = "valSummary" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "770" HotSpot = "0,0,0,0" Level = "1" Indexes = "valSummary" />
+  <clsWinFormControl Name = "btnMailConfigEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "780" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "txtTestEmailAddress" Text = "txtTestEmailAddress" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "790" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtTestEmailAddress" />
+  <clsWinFormControl Name = "chkSendTestEmail" Text = "chkSendTestEmail" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "800" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkSendTestEmail" />
+  <clsWinFormControl Name = "rdoNoSSLTLS" Text = "rdoNoSSLTLS" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "810" HotSpot = "0,0,0,0" Level = "1" Indexes = "rdoNoSSLTLS" />
+  <clsWinFormControl Name = "txtSMTPPassword" Text = "txtSMTPPassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "820" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtSMTPPassword" />
+  <clsWinFormControl Name = "txtSMTPUser" Text = "txtSMTPUser" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "830" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtSMTPUser" />
+  <clsWinFormControl Name = "rdoYesNo" Text = "rdoYesNo" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "840" HotSpot = "0,0,0,0" Level = "1" Indexes = "rdoYesNo" />
+  <clsWinFormControl Name = "txtSMTPPort" Text = "txtSMTPPort" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "850" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtSMTPPort" />
+  <clsWinFormControl Name = "txtSMTPHost" Text = "txtSMTPHost" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "860" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtSMTPHost" />
+  <clsWinFormControl Name = "txtFromEmail" Text = "txtFromEmail" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "870" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtFromEmail" />
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "880" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "890" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "900" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="valSummary" Bmk="valSummary" Caption="valSummary"  />
+<Item  Name="btnMailConfigEditSave" Bmk="btnMailConfigEditSave" Caption="Edit"  />
+<Item  Name="txtTestEmailAddress" Bmk="txtTestEmailAddress" Caption="txtTestEmailAddress"  />
+<Item  Name="chkSendTestEmail" Bmk="chkSendTestEmail" Caption="chkSendTestEmail"  />
+<Item  Name="rdoNoSSLTLS" Bmk="rdoNoSSLTLS" Caption="rdoNoSSLTLS"  />
+<Item  Name="txtSMTPPassword" Bmk="txtSMTPPassword" Caption="txtSMTPPassword"  />
+<Item  Name="txtSMTPUser" Bmk="txtSMTPUser" Caption="txtSMTPUser"  />
+<Item  Name="rdoYesNo" Bmk="rdoYesNo" Caption="rdoYesNo"  />
+<Item  Name="txtSMTPPort" Bmk="txtSMTPPort" Caption="txtSMTPPort"  />
+<Item  Name="txtSMTPHost" Bmk="txtSMTPHost" Caption="txtSMTPHost"  />
+<Item  Name="txtFromEmail" Bmk="txtFromEmail" Caption="txtFromEmail"  />
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Help.aspx" Text = "Help.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Help.jpg" HtmlFileName="HRMSystem_Form_Help.htm" HelpContextId = "2170" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Help.aspx" >
+<Controls>
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2180" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2190" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2200" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>

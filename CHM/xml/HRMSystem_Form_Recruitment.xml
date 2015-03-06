@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Recruitment.aspx" Text = "Recruitment.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Recruitment.jpg" HtmlFileName="HRMSystem_Form_Recruitment.htm" HelpContextId = "4670" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Recruitment.aspx" >
+<Controls>
+  <clsWinFormControl Name = "View3" Text = "View3" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4680" HotSpot = "0,0,0,0" Level = "1" Indexes = "View3" />
+  <clsWinFormControl Name = "View2" Text = "View2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4690" HotSpot = "0,0,0,0" Level = "1" Indexes = "View2" />
+  <clsWinFormControl Name = "rptJobVacancy" Text = "rptJobVacancy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4700" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptJobVacancy" />
+  <clsWinFormControl Name = "btnJobVacDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4710" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnJobVacAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4720" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnJobVacSearch" Text = "Search" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4730" HotSpot = "0,0,0,0" Level = "1" Indexes = "Search" />
+  <clsWinFormControl Name = "txtJobVacSearch" Text = "txtJobVacSearch" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4740" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtJobVacSearch" />
+  <clsWinFormControl Name = "cmbJobVacSearchBy" Text = "cmbJobVacSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4750" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbJobVacSearchBy" />
+  <clsWinFormControl Name = "ValidationSummary2" Text = "ValidationSummary2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4760" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary2" />
+  <clsWinFormControl Name = "btnJobVacEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4770" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "chkActive" Text = "chkActive" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4780" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkActive" />
+  <clsWinFormControl Name = "txtJobDescription" Text = "txtJobDescription" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4790" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtJobDescription" />
+  <clsWinFormControl Name = "txtHiringManager" Text = "txtHiringManager" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4800" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtHiringManager" />
+  <clsWinFormControl Name = "cmbJobTitle" Text = "cmbJobTitle" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4810" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbJobTitle" />
+  <clsWinFormControl Name = "View1" Text = "View1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4820" HotSpot = "0,0,0,0" Level = "1" Indexes = "View1" />
+  <clsWinFormControl Name = "MultiView1" Text = "MultiView1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4830" HotSpot = "0,0,0,0" Level = "1" Indexes = "MultiView1" />
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4840" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4850" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "4860" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="View3" Bmk="View3" Caption="View3"  />
+<Item  Name="View2" Bmk="View2" Caption="View2"  />
+<Item  Name="rptJobVacancy" Bmk="rptJobVacancy" Caption="rptJobVacancy"  />
+<Item  Name="btnJobVacDelete" Bmk="btnJobVacDelete" Caption="Delete"  />
+<Item  Name="btnJobVacAdd" Bmk="btnJobVacAdd" Caption="Add"  />
+<Item  Name="btnJobVacSearch" Bmk="btnJobVacSearch" Caption="Search"  />
+<Item  Name="txtJobVacSearch" Bmk="txtJobVacSearch" Caption="txtJobVacSearch"  />
+<Item  Name="cmbJobVacSearchBy" Bmk="cmbJobVacSearchBy" Caption="cmbJobVacSearchBy"  />
+<Item  Name="ValidationSummary2" Bmk="ValidationSummary2" Caption="ValidationSummary2"  />
+<Item  Name="btnJobVacEditSave" Bmk="btnJobVacEditSave" Caption="Edit"  />
+<Item  Name="chkActive" Bmk="chkActive" Caption="chkActive"  />
+<Item  Name="txtJobDescription" Bmk="txtJobDescription" Caption="txtJobDescription"  />
+<Item  Name="txtHiringManager" Bmk="txtHiringManager" Caption="txtHiringManager"  />
+<Item  Name="cmbJobTitle" Bmk="cmbJobTitle" Caption="cmbJobTitle"  />
+<Item  Name="View1" Bmk="View1" Caption="View1"  />
+<Item  Name="MultiView1" Bmk="MultiView1" Caption="MultiView1"  />
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>

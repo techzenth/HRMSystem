@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Login.aspx" Text = "Login.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Login.jpg" HtmlFileName="HRMSystem_Form_Login.htm" HelpContextId = "3430" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Login.aspx" >
+<Controls>
+  <clsWinFormControl Name = "LoginButton" Text = "Log In" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "3440" HotSpot = "0,0,0,0" Level = "1" Indexes = "Log In" />
+  <clsWinFormControl Name = "FailureText" Text = "FailureText" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "3450" HotSpot = "0,0,0,0" Level = "1" Indexes = "FailureText" />
+  <clsWinFormControl Name = "RememberMe" Text = "RememberMe" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "3460" HotSpot = "0,0,0,0" Level = "1" Indexes = "RememberMe" />
+  <clsWinFormControl Name = "Password" Text = "Password" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "3470" HotSpot = "0,0,0,0" Level = "1" Indexes = "Password" />
+  <clsWinFormControl Name = "UserName" Text = "UserName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "3480" HotSpot = "0,0,0,0" Level = "1" Indexes = "UserName" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="LoginButton" Bmk="LoginButton" Caption="Log In"  />
+<Item  Name="FailureText" Bmk="FailureText" Caption="FailureText"  />
+<Item  Name="RememberMe" Bmk="RememberMe" Caption="RememberMe"  />
+<Item  Name="Password" Bmk="Password" Caption="Password"  />
+<Item  Name="UserName" Bmk="UserName" Caption="UserName"  />
+</Controls>
+</Documented>
+</Form>

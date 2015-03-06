@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Employee.aspx" Text = "Employee.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Employee.jpg" HtmlFileName="HRMSystem_Form_Employee.htm" HelpContextId = "910" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Employee.aspx" >
+<Controls>
+  <clsWinFormControl Name = "View4" Text = "View4" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "920" HotSpot = "0,0,0,0" Level = "1" Indexes = "View4" />
+  <clsWinFormControl Name = "imgEmpPicture" Text = "imgEmpPicture" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "930" HotSpot = "0,0,0,0" Level = "1" Indexes = "imgEmpPicture" />
+  <clsWinFormControl Name = "ValidationSummary2" Text = "ValidationSummary2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "940" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary2" />
+  <clsWinFormControl Name = "rptSubordinate" Text = "rptSubordinate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "950" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptSubordinate" />
+  <clsWinFormControl Name = "btnSubordinateDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "960" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnSubordinateAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "970" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "rptSupervisor" Text = "rptSupervisor" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "980" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptSupervisor" />
+  <clsWinFormControl Name = "btnSupervisorDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "990" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnSupervisorAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1000" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnReportToEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1010" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "cmbReportingMethod" Text = "cmbReportingMethod" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1020" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbReportingMethod" />
+  <clsWinFormControl Name = "txtEmployee" Text = "txtEmployee" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1030" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtEmployee" />
+  <clsWinFormControl Name = "cmbSupervisorSubordinate" Text = "cmbSupervisorSubordinate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1040" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbSupervisorSubordinate" />
+  <clsWinFormControl Name = "vwReportTo" Text = "vwReportTo" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1050" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwReportTo" />
+  <clsWinFormControl Name = "View7" Text = "View7" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1060" HotSpot = "0,0,0,0" Level = "1" Indexes = "View7" />
+  <clsWinFormControl Name = "View6" Text = "View6" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1070" HotSpot = "0,0,0,0" Level = "1" Indexes = "View6" />
+  <clsWinFormControl Name = "View5" Text = "View5" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1080" HotSpot = "0,0,0,0" Level = "1" Indexes = "View5" />
+  <clsWinFormControl Name = "btnJobEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1090" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "btnSubdivision" Text = "..." ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1100" HotSpot = "0,0,0,0" Level = "1" Indexes = "..." />
+  <clsWinFormControl Name = "txtSubdivison" Text = "txtSubdivison" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1110" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtSubdivison" />
+  <clsWinFormControl Name = "btnJoinedDate" Text = "btnJoinedDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1120" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnJoinedDate" />
+  <clsWinFormControl Name = "txtJoinedDate" Text = "txtJoinedDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1130" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtJoinedDate" />
+  <clsWinFormControl Name = "cmbEEOCategory" Text = "cmbEEOCategory" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1140" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbEEOCategory" />
+  <clsWinFormControl Name = "cmbEmploymentStatus" Text = "cmbEmploymentStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1150" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbEmploymentStatus" />
+  <clsWinFormControl Name = "cmbJobTitle" Text = "cmbJobTitle" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1160" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbJobTitle" />
+  <clsWinFormControl Name = "vwJob" Text = "vwJob" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1170" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwJob" />
+  <clsWinFormControl Name = "btnPhotographSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1180" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "filePhotograph" Text = "filePhotograph" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1190" HotSpot = "0,0,0,0" Level = "1" Indexes = "filePhotograph" />
+  <clsWinFormControl Name = "imgEmpPhotograph" Text = "imgEmpPhotograph" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1200" HotSpot = "0,0,0,0" Level = "1" Indexes = "imgEmpPhotograph" />
+  <clsWinFormControl Name = "vwPhotograph" Text = "vwPhotograph" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1210" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwPhotograph" />
+  <clsWinFormControl Name = "chkImmigration" Text = "chkImmigration" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1220" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkImmigration" />
+  <clsWinFormControl Name = "btnImmigrationDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1230" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnImmigrationAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1240" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnImmigrationEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1250" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "btnINineReviewDate" Text = "btnINineReviewDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1260" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnINineReviewDate" />
+  <clsWinFormControl Name = "txtINineReviewDate" Text = "txtINineReviewDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1270" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtINineReviewDate" />
+  <clsWinFormControl Name = "btnDateofExpiry" Text = "btnDateofExpiry" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1280" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnDateofExpiry" />
+  <clsWinFormControl Name = "txtDateofExpiry" Text = "txtDateofExpiry" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1290" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtDateofExpiry" />
+  <clsWinFormControl Name = "txtINine" Text = "txtINine" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1300" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtINine" />
+  <clsWinFormControl Name = "btnIssuedDate" Text = "btnIssuedDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1310" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnIssuedDate" />
+  <clsWinFormControl Name = "txtIssuedDate" Text = "txtIssuedDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1320" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtIssuedDate" />
+  <clsWinFormControl Name = "txtPassportVisaNo" Text = "txtPassportVisaNo" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1330" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPassportVisaNo" />
+  <clsWinFormControl Name = "cmbCitizen" Text = "cmbCitizen" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1340" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbCitizen" />
+  <clsWinFormControl Name = "RadioButtonList1" Text = "RadioButtonList1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1350" HotSpot = "0,0,0,0" Level = "1" Indexes = "RadioButtonList1" />
+  <clsWinFormControl Name = "vwImmigration" Text = "vwImmigration" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1360" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwImmigration" />
+  <clsWinFormControl Name = "btnChildDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1370" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnChildAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1380" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnDependentDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1390" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnDependentAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1400" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnChildSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1410" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "btnDependentSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1420" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "btnChildDateofBirth" Text = "btnChildDateofBirth" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1430" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnChildDateofBirth" />
+  <clsWinFormControl Name = "txtChildDateofBirth" Text = "txtChildDateofBirth" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1440" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtChildDateofBirth" />
+  <clsWinFormControl Name = "txtDependentRelationship" Text = "txtDependentRelationship" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1450" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtDependentRelationship" />
+  <clsWinFormControl Name = "txtChildName" Text = "txtChildName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1460" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtChildName" />
+  <clsWinFormControl Name = "txtDependentName" Text = "txtDependentName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1470" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtDependentName" />
+  <clsWinFormControl Name = "vwDependents" Text = "vwDependents" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1480" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwDependents" />
+  <clsWinFormControl Name = "rptEmergencyContacts" Text = "rptEmergencyContacts" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1490" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptEmergencyContacts" />
+  <clsWinFormControl Name = "btnContactDetailsDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1500" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnContactDetailsAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1510" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnEmergencyContactsEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1520" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "txtContactMobile" Text = "txtContactMobile" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1530" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtContactMobile" />
+  <clsWinFormControl Name = "txtContactWorkTelephone" Text = "txtContactWorkTelephone" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1540" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtContactWorkTelephone" />
+  <clsWinFormControl Name = "txtContactHomeTelephone" Text = "txtContactHomeTelephone" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1550" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtContactHomeTelephone" />
+  <clsWinFormControl Name = "txtContactRelationship" Text = "txtContactRelationship" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1560" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtContactRelationship" />
+  <clsWinFormControl Name = "txtContactName" Text = "txtContactName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1570" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtContactName" />
+  <clsWinFormControl Name = "vwEmergencyContacts" Text = "vwEmergencyContacts" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1580" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwEmergencyContacts" />
+  <clsWinFormControl Name = "btnContactDetailsEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1590" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "txtOtherEmail" Text = "txtOtherEmail" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1600" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtOtherEmail" />
+  <clsWinFormControl Name = "txtWorkEmail" Text = "txtWorkEmail" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1610" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtWorkEmail" />
+  <clsWinFormControl Name = "txtWorkTelephone" Text = "txtWorkTelephone" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1620" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtWorkTelephone" />
+  <clsWinFormControl Name = "txtMobile" Text = "txtMobile" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1630" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtMobile" />
+  <clsWinFormControl Name = "txtHomeTelephone" Text = "txtHomeTelephone" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1640" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtHomeTelephone" />
+  <clsWinFormControl Name = "txtZIPCode" Text = "txtZIPCode" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1650" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtZIPCode" />
+  <clsWinFormControl Name = "txtStateProvince" Text = "txtStateProvince" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1660" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtStateProvince" />
+  <clsWinFormControl Name = "txtCityTown" Text = "txtCityTown" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1670" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtCityTown" />
+  <clsWinFormControl Name = "txtStreet2" Text = "txtStreet2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1680" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtStreet2" />
+  <clsWinFormControl Name = "txtStreet1" Text = "txtStreet1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1690" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtStreet1" />
+  <clsWinFormControl Name = "cmbCountries" Text = "cmbCountries" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1700" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbCountries" />
+  <clsWinFormControl Name = "vwContactDetails" Text = "vwContactDetails" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1710" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwContactDetails" />
+  <clsWinFormControl Name = "btnPersonalDetailsEditSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1720" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "cmbEthnicRace" Text = "cmbEthnicRace" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1730" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbEthnicRace" />
+  <clsWinFormControl Name = "txtMilitaryService" Text = "txtMilitaryService" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1740" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtMilitaryService" />
+  <clsWinFormControl Name = "btnExpiryDate" Text = "btnExpiryDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1750" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnExpiryDate" />
+  <clsWinFormControl Name = "txtLicenseExpiryDate" Text = "txtLicenseExpiryDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1760" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtLicenseExpiryDate" />
+  <clsWinFormControl Name = "txtDriversLicense" Text = "txtDriversLicense" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1770" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtDriversLicense" />
+  <clsWinFormControl Name = "rdoGender" Text = "rdoGender" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1780" HotSpot = "0,0,0,0" Level = "1" Indexes = "rdoGender" />
+  <clsWinFormControl Name = "chkSmoker" Text = "chkSmoker" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1790" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkSmoker" />
+  <clsWinFormControl Name = "cmbMartialStatus" Text = "cmbMartialStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1800" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbMartialStatus" />
+  <clsWinFormControl Name = "txtOtherID" Text = "txtOtherID" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1810" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtOtherID" />
+  <clsWinFormControl Name = "btnBirthDate" Text = "btnBirthDate" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1820" HotSpot = "0,0,0,0" Level = "1" Indexes = "btnBirthDate" />
+  <clsWinFormControl Name = "txtDOB" Text = "txtDOB" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1830" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtDOB" />
+  <clsWinFormControl Name = "txtNISNo" Text = "txtNISNo" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1840" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtNISNo" />
+  <clsWinFormControl Name = "cmbNationality" Text = "cmbNationality" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1850" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbNationality" />
+  <clsWinFormControl Name = "txtTRNNo" Text = "txtTRNNo" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1860" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtTRNNo" />
+  <clsWinFormControl Name = "txtNickName" Text = "txtNickName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1870" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtNickName" />
+  <clsWinFormControl Name = "txtMiddleName" Text = "txtMiddleName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1880" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtMiddleName" />
+  <clsWinFormControl Name = "txtFirstName" Text = "txtFirstName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1890" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtFirstName" />
+  <clsWinFormControl Name = "txtLastName" Text = "txtLastName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1900" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtLastName" />
+  <clsWinFormControl Name = "txtEmpCode" Text = "txtEmpCode" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1910" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtEmpCode" />
+  <clsWinFormControl Name = "vwPersonalDetails" Text = "vwPersonalDetails" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1920" HotSpot = "0,0,0,0" Level = "1" Indexes = "vwPersonalDetails" />
+  <clsWinFormControl Name = "mvwEmployee" Text = "mvwEmployee" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1930" HotSpot = "0,0,0,0" Level = "1" Indexes = "mvwEmployee" />
+  <clsWinFormControl Name = "mnuEmployment" Text = "mnuEmployment" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1940" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuEmployment" />
+  <clsWinFormControl Name = "mnuPersonal" Text = "mnuPersonal" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1950" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuPersonal" />
+  <clsWinFormControl Name = "View3" Text = "View3" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1960" HotSpot = "0,0,0,0" Level = "1" Indexes = "View3" />
+  <clsWinFormControl Name = "ValidationSummary1" Text = "ValidationSummary1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1970" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary1" />
+  <clsWinFormControl Name = "btnAddEmpSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1980" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "filePIMPicture" Text = "filePIMPicture" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "1990" HotSpot = "0,0,0,0" Level = "1" Indexes = "filePIMPicture" />
+  <clsWinFormControl Name = "txtPIMNickName" Text = "txtPIMNickName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2000" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPIMNickName" />
+  <clsWinFormControl Name = "txtPIMMiddleName" Text = "txtPIMMiddleName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2010" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPIMMiddleName" />
+  <clsWinFormControl Name = "txtPIMFirstName" Text = "txtPIMFirstName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2020" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPIMFirstName" />
+  <clsWinFormControl Name = "txtPIMLastName" Text = "txtPIMLastName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2030" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPIMLastName" />
+  <clsWinFormControl Name = "txtPIMCode" Text = "txtPIMCode" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2040" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtPIMCode" />
+  <clsWinFormControl Name = "View2" Text = "View2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2050" HotSpot = "0,0,0,0" Level = "1" Indexes = "View2" />
+  <clsWinFormControl Name = "rptEmployee" Text = "rptEmployee" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2060" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptEmployee" />
+  <clsWinFormControl Name = "btnEmployeeDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2070" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnEmployeeAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2080" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnEmployeeSearch" Text = "Search" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2090" HotSpot = "0,0,0,0" Level = "1" Indexes = "Search" />
+  <clsWinFormControl Name = "txtEmployeeSearch" Text = "txtEmployeeSearch" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2100" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtEmployeeSearch" />
+  <clsWinFormControl Name = "cmbEmployeeSearchBy" Text = "cmbEmployeeSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2110" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbEmployeeSearchBy" />
+  <clsWinFormControl Name = "View1" Text = "View1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2120" HotSpot = "0,0,0,0" Level = "1" Indexes = "View1" />
+  <clsWinFormControl Name = "MultiView1" Text = "MultiView1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2130" HotSpot = "0,0,0,0" Level = "1" Indexes = "MultiView1" />
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2140" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2150" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "2160" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="View4" Bmk="View4" Caption="View4"  />
+<Item  Name="imgEmpPicture" Bmk="imgEmpPicture" Caption="imgEmpPicture"  />
+<Item  Name="ValidationSummary2" Bmk="ValidationSummary2" Caption="ValidationSummary2"  />
+<Item  Name="rptSubordinate" Bmk="rptSubordinate" Caption="rptSubordinate"  />
+<Item  Name="btnSubordinateDelete" Bmk="btnSubordinateDelete" Caption="Delete"  />
+<Item  Name="btnSubordinateAdd" Bmk="btnSubordinateAdd" Caption="Add"  />
+<Item  Name="rptSupervisor" Bmk="rptSupervisor" Caption="rptSupervisor"  />
+<Item  Name="btnSupervisorDelete" Bmk="btnSupervisorDelete" Caption="Delete"  />
+<Item  Name="btnSupervisorAdd" Bmk="btnSupervisorAdd" Caption="Add"  />
+<Item  Name="btnReportToEditSave" Bmk="btnReportToEditSave" Caption="Save"  />
+<Item  Name="cmbReportingMethod" Bmk="cmbReportingMethod" Caption="cmbReportingMethod"  />
+<Item  Name="txtEmployee" Bmk="txtEmployee" Caption="txtEmployee"  />
+<Item  Name="cmbSupervisorSubordinate" Bmk="cmbSupervisorSubordinate" Caption="cmbSupervisorSubordinate"  />
+<Item  Name="vwReportTo" Bmk="vwReportTo" Caption="vwReportTo"  />
+<Item  Name="View7" Bmk="View7" Caption="View7"  />
+<Item  Name="View6" Bmk="View6" Caption="View6"  />
+<Item  Name="View5" Bmk="View5" Caption="View5"  />
+<Item  Name="btnJobEditSave" Bmk="btnJobEditSave" Caption="Save"  />
+<Item  Name="btnSubdivision" Bmk="btnSubdivision" Caption="..."  />
+<Item  Name="txtSubdivison" Bmk="txtSubdivison" Caption="txtSubdivison"  />
+<Item  Name="btnJoinedDate" Bmk="btnJoinedDate" Caption="btnJoinedDate"  />
+<Item  Name="txtJoinedDate" Bmk="txtJoinedDate" Caption="txtJoinedDate"  />
+<Item  Name="cmbEEOCategory" Bmk="cmbEEOCategory" Caption="cmbEEOCategory"  />
+<Item  Name="cmbEmploymentStatus" Bmk="cmbEmploymentStatus" Caption="cmbEmploymentStatus"  />
+<Item  Name="cmbJobTitle" Bmk="cmbJobTitle" Caption="cmbJobTitle"  />
+<Item  Name="vwJob" Bmk="vwJob" Caption="vwJob"  />
+<Item  Name="btnPhotographSave" Bmk="btnPhotographSave" Caption="Save"  />
+<Item  Name="filePhotograph" Bmk="filePhotograph" Caption="filePhotograph"  />
+<Item  Name="imgEmpPhotograph" Bmk="imgEmpPhotograph" Caption="imgEmpPhotograph"  />
+<Item  Name="vwPhotograph" Bmk="vwPhotograph" Caption="vwPhotograph"  />
+<Item  Name="chkImmigration" Bmk="chkImmigration" Caption="chkImmigration"  />
+<Item  Name="btnImmigrationDelete" Bmk="btnImmigrationDelete" Caption="Delete"  />
+<Item  Name="btnImmigrationAdd" Bmk="btnImmigrationAdd" Caption="Add"  />
+<Item  Name="btnImmigrationEditSave" Bmk="btnImmigrationEditSave" Caption="Save"  />
+<Item  Name="btnINineReviewDate" Bmk="btnINineReviewDate" Caption="btnINineReviewDate"  />
+<Item  Name="txtINineReviewDate" Bmk="txtINineReviewDate" Caption="txtINineReviewDate"  />
+<Item  Name="btnDateofExpiry" Bmk="btnDateofExpiry" Caption="btnDateofExpiry"  />
+<Item  Name="txtDateofExpiry" Bmk="txtDateofExpiry" Caption="txtDateofExpiry"  />
+<Item  Name="txtINine" Bmk="txtINine" Caption="txtINine"  />
+<Item  Name="btnIssuedDate" Bmk="btnIssuedDate" Caption="btnIssuedDate"  />
+<Item  Name="txtIssuedDate" Bmk="txtIssuedDate" Caption="txtIssuedDate"  />
+<Item  Name="txtPassportVisaNo" Bmk="txtPassportVisaNo" Caption="txtPassportVisaNo"  />
+<Item  Name="cmbCitizen" Bmk="cmbCitizen" Caption="cmbCitizen"  />
+<Item  Name="RadioButtonList1" Bmk="RadioButtonList1" Caption="RadioButtonList1"  />
+<Item  Name="vwImmigration" Bmk="vwImmigration" Caption="vwImmigration"  />
+<Item  Name="btnChildDelete" Bmk="btnChildDelete" Caption="Delete"  />
+<Item  Name="btnChildAdd" Bmk="btnChildAdd" Caption="Add"  />
+<Item  Name="btnDependentDelete" Bmk="btnDependentDelete" Caption="Delete"  />
+<Item  Name="btnDependentAdd" Bmk="btnDependentAdd" Caption="Add"  />
+<Item  Name="btnChildSave" Bmk="btnChildSave" Caption="Save"  />
+<Item  Name="btnDependentSave" Bmk="btnDependentSave" Caption="Save"  />
+<Item  Name="btnChildDateofBirth" Bmk="btnChildDateofBirth" Caption="btnChildDateofBirth"  />
+<Item  Name="txtChildDateofBirth" Bmk="txtChildDateofBirth" Caption="txtChildDateofBirth"  />
+<Item  Name="txtDependentRelationship" Bmk="txtDependentRelationship" Caption="txtDependentRelationship"  />
+<Item  Name="txtChildName" Bmk="txtChildName" Caption="txtChildName"  />
+<Item  Name="txtDependentName" Bmk="txtDependentName" Caption="txtDependentName"  />
+<Item  Name="vwDependents" Bmk="vwDependents" Caption="vwDependents"  />
+<Item  Name="rptEmergencyContacts" Bmk="rptEmergencyContacts" Caption="rptEmergencyContacts"  />
+<Item  Name="btnContactDetailsDelete" Bmk="btnContactDetailsDelete" Caption="Delete"  />
+<Item  Name="btnContactDetailsAdd" Bmk="btnContactDetailsAdd" Caption="Add"  />
+<Item  Name="btnEmergencyContactsEditSave" Bmk="btnEmergencyContactsEditSave" Caption="Save"  />
+<Item  Name="txtContactMobile" Bmk="txtContactMobile" Caption="txtContactMobile"  />
+<Item  Name="txtContactWorkTelephone" Bmk="txtContactWorkTelephone" Caption="txtContactWorkTelephone"  />
+<Item  Name="txtContactHomeTelephone" Bmk="txtContactHomeTelephone" Caption="txtContactHomeTelephone"  />
+<Item  Name="txtContactRelationship" Bmk="txtContactRelationship" Caption="txtContactRelationship"  />
+<Item  Name="txtContactName" Bmk="txtContactName" Caption="txtContactName"  />
+<Item  Name="vwEmergencyContacts" Bmk="vwEmergencyContacts" Caption="vwEmergencyContacts"  />
+<Item  Name="btnContactDetailsEditSave" Bmk="btnContactDetailsEditSave" Caption="Save"  />
+<Item  Name="txtOtherEmail" Bmk="txtOtherEmail" Caption="txtOtherEmail"  />
+<Item  Name="txtWorkEmail" Bmk="txtWorkEmail" Caption="txtWorkEmail"  />
+<Item  Name="txtWorkTelephone" Bmk="txtWorkTelephone" Caption="txtWorkTelephone"  />
+<Item  Name="txtMobile" Bmk="txtMobile" Caption="txtMobile"  />
+<Item  Name="txtHomeTelephone" Bmk="txtHomeTelephone" Caption="txtHomeTelephone"  />
+<Item  Name="txtZIPCode" Bmk="txtZIPCode" Caption="txtZIPCode"  />
+<Item  Name="txtStateProvince" Bmk="txtStateProvince" Caption="txtStateProvince"  />
+<Item  Name="txtCityTown" Bmk="txtCityTown" Caption="txtCityTown"  />
+<Item  Name="txtStreet2" Bmk="txtStreet2" Caption="txtStreet2"  />
+<Item  Name="txtStreet1" Bmk="txtStreet1" Caption="txtStreet1"  />
+<Item  Name="cmbCountries" Bmk="cmbCountries" Caption="cmbCountries"  />
+<Item  Name="vwContactDetails" Bmk="vwContactDetails" Caption="vwContactDetails"  />
+<Item  Name="btnPersonalDetailsEditSave" Bmk="btnPersonalDetailsEditSave" Caption="Save"  />
+<Item  Name="cmbEthnicRace" Bmk="cmbEthnicRace" Caption="cmbEthnicRace"  />
+<Item  Name="txtMilitaryService" Bmk="txtMilitaryService" Caption="txtMilitaryService"  />
+<Item  Name="btnExpiryDate" Bmk="btnExpiryDate" Caption="btnExpiryDate"  />
+<Item  Name="txtLicenseExpiryDate" Bmk="txtLicenseExpiryDate" Caption="txtLicenseExpiryDate"  />
+<Item  Name="txtDriversLicense" Bmk="txtDriversLicense" Caption="txtDriversLicense"  />
+<Item  Name="rdoGender" Bmk="rdoGender" Caption="rdoGender"  />
+<Item  Name="chkSmoker" Bmk="chkSmoker" Caption="chkSmoker"  />
+<Item  Name="cmbMartialStatus" Bmk="cmbMartialStatus" Caption="cmbMartialStatus"  />
+<Item  Name="txtOtherID" Bmk="txtOtherID" Caption="txtOtherID"  />
+<Item  Name="btnBirthDate" Bmk="btnBirthDate" Caption="btnBirthDate"  />
+<Item  Name="txtDOB" Bmk="txtDOB" Caption="txtDOB"  />
+<Item  Name="txtNISNo" Bmk="txtNISNo" Caption="txtNISNo"  />
+<Item  Name="cmbNationality" Bmk="cmbNationality" Caption="cmbNationality"  />
+<Item  Name="txtTRNNo" Bmk="txtTRNNo" Caption="txtTRNNo"  />
+<Item  Name="txtNickName" Bmk="txtNickName" Caption="txtNickName"  />
+<Item  Name="txtMiddleName" Bmk="txtMiddleName" Caption="txtMiddleName"  />
+<Item  Name="txtFirstName" Bmk="txtFirstName" Caption="txtFirstName"  />
+<Item  Name="txtLastName" Bmk="txtLastName" Caption="txtLastName"  />
+<Item  Name="txtEmpCode" Bmk="txtEmpCode" Caption="txtEmpCode"  />
+<Item  Name="vwPersonalDetails" Bmk="vwPersonalDetails" Caption="vwPersonalDetails"  />
+<Item  Name="mvwEmployee" Bmk="mvwEmployee" Caption="mvwEmployee"  />
+<Item  Name="mnuEmployment" Bmk="mnuEmployment" Caption="mnuEmployment"  />
+<Item  Name="mnuPersonal" Bmk="mnuPersonal" Caption="mnuPersonal"  />
+<Item  Name="View3" Bmk="View3" Caption="View3"  />
+<Item  Name="ValidationSummary1" Bmk="ValidationSummary1" Caption="ValidationSummary1"  />
+<Item  Name="btnAddEmpSave" Bmk="btnAddEmpSave" Caption="Save"  />
+<Item  Name="filePIMPicture" Bmk="filePIMPicture" Caption="filePIMPicture"  />
+<Item  Name="txtPIMNickName" Bmk="txtPIMNickName" Caption="txtPIMNickName"  />
+<Item  Name="txtPIMMiddleName" Bmk="txtPIMMiddleName" Caption="txtPIMMiddleName"  />
+<Item  Name="txtPIMFirstName" Bmk="txtPIMFirstName" Caption="txtPIMFirstName"  />
+<Item  Name="txtPIMLastName" Bmk="txtPIMLastName" Caption="txtPIMLastName"  />
+<Item  Name="txtPIMCode" Bmk="txtPIMCode" Caption="txtPIMCode"  />
+<Item  Name="View2" Bmk="View2" Caption="View2"  />
+<Item  Name="rptEmployee" Bmk="rptEmployee" Caption="rptEmployee"  />
+<Item  Name="btnEmployeeDelete" Bmk="btnEmployeeDelete" Caption="Delete"  />
+<Item  Name="btnEmployeeAdd" Bmk="btnEmployeeAdd" Caption="Add"  />
+<Item  Name="btnEmployeeSearch" Bmk="btnEmployeeSearch" Caption="Search"  />
+<Item  Name="txtEmployeeSearch" Bmk="txtEmployeeSearch" Caption="txtEmployeeSearch"  />
+<Item  Name="cmbEmployeeSearchBy" Bmk="cmbEmployeeSearchBy" Caption="cmbEmployeeSearchBy"  />
+<Item  Name="View1" Bmk="View1" Caption="View1"  />
+<Item  Name="MultiView1" Bmk="MultiView1" Caption="MultiView1"  />
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>

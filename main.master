@@ -1,0 +1,279 @@
+﻿<%@ Master Language="VB" CodeFile="main.master.vb" Inherits="main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>NWC HRMSystem</title>
+    <link lang="en-jm" rel="Stylesheet" href="css/StyleSheet.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .imageStyle
+        {
+            width: 105px;
+            height: 105px;
+        }
+        .style1
+        {
+            width: 241px;
+            height: 105px;
+        }
+        </style>
+</head>
+<body >
+    <form id="form1" runat="server">
+    <div>
+        <table width="100%" style="height: 100%; margin-left: 0; margin-right: 0;" cellpadding="0"
+            cellspacing="0">
+            <tr style="height: 40%">
+                <td style="background-color: #345BE2; border-bottom-style: outset; border-bottom-color: #0033CC;
+                    border-top-style: inset; border-top-color: #0033CC">
+                    <span style="color: #FFFFFF; font-size: xx-large;">
+                    <img alt="" class="style1" src="images/NWCLogo2.JPG" /> </span>&nbsp;<div style="text-align: right; color: #FFFFFF;">
+                        <span lang="en-us">Welcome </span>
+                        <asp:Label ID="LoginName" runat="server" text="admin"></asp:Label> &nbsp;
+                        <asp:HyperLink ID="changepassword" runat="server" 
+                            NavigateUrl="changepassword.aspx" ForeColor="#FFFFCC">Change Password</asp:HyperLink>&nbsp;
+                        <asp:HyperLink ID="LoginStatus" runat="server" NavigateUrl="logout.aspx" 
+                            ForeColor="#FFFFCC" >Logout</asp:HyperLink>&nbsp;
+                    </div>
+                    <asp:Menu ID="mnuESS" runat="server" BackColor="#F7F6F3" 
+                        DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" 
+                        ForeColor="#7C6F57" StaticSubMenuIndent="10px"
+                        Orientation="Horizontal">
+                        <StaticSelectedStyle BackColor="#5D7B9D" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                        <DynamicMenuStyle BackColor="#F7F6F3" />
+                        <DynamicSelectedStyle BackColor="#5D7B9D" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Employee.aspx" Text="ESS" Value="ESS">
+                                <asp:MenuItem NavigateUrl="~/Employee.aspx?Employee" Text="View Details" 
+                                    Value="View Details"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                    <asp:Menu ID="mnuNav" runat="server" BackColor="#F7F6F3" DynamicHorizontalOffset="2"
+                        Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" StaticSubMenuIndent="10px"
+                        Orientation="Horizontal">
+                        <StaticSelectedStyle BackColor="#5D7B9D" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                        <DynamicMenuStyle BackColor="#F7F6F3" />
+                        <DynamicSelectedStyle BackColor="#5D7B9D" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                        <Items>
+                            <asp:MenuItem NavigateUrl="#Admin" Text="Admin">
+                                <asp:MenuItem NavigateUrl="~/CompanyInfo.aspx" Text="Company Info" Value="Company Info">
+                                    <asp:MenuItem NavigateUrl="~/CompanyInfo.aspx?Page=General" Text="General" Value="General">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/CompanyInfo.aspx?Page=Location" Text="Location" Value="Location">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/CompanyInfo.aspx?Page=Company Structure" Text="Company Structure"
+                                        Value="Company Structure" ></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/CompanyInfo.aspx?Page=Company Property" Text="Company Property"
+                                        Value="Company Property"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Job.aspx" Text="Job" Value="Job">
+                                    <asp:MenuItem NavigateUrl="~/Job.aspx?Page=Job Titles" Text="Job Titles" 
+                                        Value="Job Titles"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Job.aspx?Page=Job Specification" 
+                                        Text="Job Specification" Value="Job Specification">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Job.aspx?Page=Pay Grades" Text="Pay Grades" 
+                                        Value="Pay Grades"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Job.aspx?Page=Employment Status" 
+                                        Text="Employment Status" Value="Employment Status">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Job.aspx?Page=EEO Job Categories" 
+                                        Text="EEO Job Categories" Value="EEO Job Categories">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Qualification.aspx" Text="Qualification" 
+                                    Value="Qualification">
+                                    <asp:MenuItem NavigateUrl="~/Qualification.aspx?Page=Education" 
+                                        Text="Education" Value="Education"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Qualification.aspx?Page=Licenses" Text="Licenses" 
+                                        Value="Licenses"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Skills.aspx" Text="Skills" Value="Skills">
+                                    <asp:MenuItem NavigateUrl="~/Skills.aspx?Page=Skills" Text="Skills" 
+                                        Value="Skills"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Skills.aspx?Page=Languages" Text="Languages" 
+                                        Value="Languages"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Membership.aspx" Text="Memberships" 
+                                    Value="Memberships">
+                                    <asp:MenuItem NavigateUrl="~/Membership.aspx?Page=Membership Types" 
+                                        Text="Membership Types" Value="Membership Types">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Membership.aspx?Page=Memberships" 
+                                        Text="Memberships" Value="Memberships">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Nationaity_Race.aspx" Text="Nationality and Race" 
+                                    Value="Nationality and Race">
+                                    <asp:MenuItem NavigateUrl="~/Nationaity_Race.aspx?Page=Nationality" 
+                                        Text="Nationality" Value="Nationality">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Nationaity_Race.aspx?Page=Ethnic Races" 
+                                        Text="Ethnic Races" Value="Ethnic Races">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Users.aspx" Text="Users" Value="Users">
+                                    <asp:MenuItem NavigateUrl="~/Users.aspx?Page=HR Admin Users" 
+                                        Text="HR Admin Users" Value="HR Admin Users">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Users.aspx?Page=ESS Users" Text="ESS Users" 
+                                        Value="ESS Users"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Users.aspx?Page=Admin User Groups" 
+                                        Text="Admin User Groups" Value="Admin User Groups">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Email_Notification.aspx" Text="Email Notification" 
+                                    Value="Email Notification">
+                                    <asp:MenuItem NavigateUrl="~/Email_Notification.aspx" Text="Mail Configuration" 
+                                        Value="Mail Configuration">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ProjectInfo.aspx" Text="Project Info" 
+                                    Value="Project Info">
+                                    <asp:MenuItem NavigateUrl="~/ProjectInfo.aspx?Page=Customers" Text="Customers" 
+                                        Value="Customers"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/ProjectInfo.aspx?Page=Projects" Text="Projects" 
+                                        Value="Projects"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/ProjectInfo.aspx?Page=Project Activities" 
+                                        Text="Project Activities" Value="Project Activities">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Import_Export.aspx" Text="Data Export/Import" 
+                                    Value="Data Export/Import">
+                                    <asp:MenuItem NavigateUrl="~/Import_Export.aspx?Page=Define Custom Export" 
+                                        Text="Define Custom Export" Value="Define Custom Export">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Import_Export.aspx?Page=Export" Text="Export" 
+                                        Value="Export"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Import_Export.aspx?Page=Define Custom Import" 
+                                        Text="Define Custom Import" Value="Define Custom Import">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Import_Export.aspx?Page=Import" Text="Import" 
+                                        Value="Import"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/CustomFields.aspx" Text="Custom Fields" 
+                                    Value="Custom Fields">
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Employee.aspx" Text="PIM">
+                                <asp:MenuItem NavigateUrl="~/Employee.aspx?Page=Employee List" 
+                                    Text="Employee List" Value="Employee List">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Employee.aspx?Page=Add Employee" 
+                                    Text="Add Employee" Value="Add Employee">
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="#Leave" Text="Leave">
+                                <asp:MenuItem NavigateUrl="#LeaveSummary" Text="Leave Summary" Value="Leave Summary">
+                                    <asp:MenuItem NavigateUrl="#EmployeeLeaveSummary" Text="Employee Leave Summary" Value="Employee Leave Summary">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#DefineDaysOff" Text="Define Days Off" Value="Define Days Off">
+                                    <asp:MenuItem NavigateUrl="#DaysOff" Text="Days Off" Value="Days Off"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="#SpecificHoliday" Text="Specific Holidays" Value="Specific Holidays">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#DefineLeaveTypes" Text="Define Leave Types" Value="Define Leave Types">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#AssignLeave" Text="Assign Leave" Value="Assign Leave">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#LeaveList" Text="Leave List" Value="Leave List"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="#Time" Text="Time">
+                                <asp:MenuItem NavigateUrl="#Timesheets" Text="Timesheets" Value="Timesheets">
+                                    <asp:MenuItem NavigateUrl="#PrintTimesheets" Text="Print Timesheets" Value="Print Timesheets">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="#EmployeeTimesheets" Text="Employee Timesheets" Value="Employee Timesheets">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#Attendance" Text="Attendance" Value="Attendance">
+                                    <asp:MenuItem NavigateUrl="#EmployeeReports" Text="Employee Reports" Value="Employee Reports">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="#Configuration" Text="Configuration" Value="Configuration">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#EmployeeReports" Text="Employee Reports" Value="Employee Reports">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#ProjectReports" Text="Project Reports" Value="Project Reports">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#WorkShifts" Text="Work Shifts" Value="Work Shifts"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="#Benefits" Text="Benefits">
+                                <asp:MenuItem NavigateUrl="#HealthSavingsPlan" Text="Health Savings Plan" Value="Health Savings Plan">
+                                    <asp:MenuItem Text="Define HSP" Value="Define HSP"></asp:MenuItem>
+                                    <asp:MenuItem Text="Employee HSP Summary" Value="Employee HSP Summary"></asp:MenuItem>
+                                    <asp:MenuItem Text="HSP Payments Due" Value="HSP Payments Due"></asp:MenuItem>
+                                    <asp:MenuItem Text="HSP Expenditures" Value="HSP Expenditures"></asp:MenuItem>
+                                    <asp:MenuItem Text="HSP Used" Value="HSP Used"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="#PayrollSchedule" Text="Payroll Schedule" Value="Payroll Schedule">
+                                    <asp:MenuItem Text="View Payroll Schedule" Value="View Payroll Schedule"></asp:MenuItem>
+                                    <asp:MenuItem Text="Add Pay Period" Value="Add Pay Period"></asp:MenuItem>
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Recruitment.aspx" Text="Recruitment">
+                                <asp:MenuItem Text="Job Vacancies" Value="Job Vacancies" 
+                                    NavigateUrl="~/Recruitment.aspx?Page=Job Vacancies"></asp:MenuItem>
+                                <asp:MenuItem Text="Applicants" Value="Applicants" 
+                                    NavigateUrl="~/Recruitment.aspx?Page=Applicants"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Performance" Value="Performance">
+                                <asp:MenuItem Text="KPI List" Value="KPI List"></asp:MenuItem>
+                                <asp:MenuItem Text="Add KPI" Value="Add KPI"></asp:MenuItem>
+                                <asp:MenuItem Text="Copy KPI" Value="Copy KPI"></asp:MenuItem>
+                                <asp:MenuItem Text="Add Review" Value="Add Review"></asp:MenuItem>
+                                <asp:MenuItem Text="Search Review" Value="Search Review"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="#Reports" Text="Reports"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="#BugTracker" Text="Bug Tracker" Value="Bug Tracker"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Help.aspx" Text="Help">
+                                <asp:MenuItem Text="Help Contents" Value="Help Contents" 
+                                    NavigateUrl="~/Help.aspx?Page=Help Contents"></asp:MenuItem>
+                                <asp:MenuItem Text="Support" Value="Support" 
+                                    NavigateUrl="~/Help.aspx?Page=Support"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" style="margin: 0px 0px 0px 0px; ">
+    <div id="statusMsg" runat="server" visible="false"
+    
+        style="display: block; padding: 6px 6px; background-color: #FFFFCC; border: thin solid #8180E6; color: #66CCFF;" >
+    <asp:Literal ID="Message" runat="server" EnableViewState="False" Mode="PassThrough"></asp:Literal>
+</div>
+                <br />
+                <div style="text-indent: 40px">
+                <asp:ContentPlaceHolder ID="contentplace1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                <br />
+                    <span lang="en-us" style="text-align: center;">&copy NWC HRMSystem 2010. All rights reserved.</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <asp:AccessDataSource ID="adsRights" runat="server" 
+        DataFile="~/App_Data/hrmsystem.mdb" SelectCommand="SELECT mod_id, addition, editing, deletion, viewing FROM hr_rights" 
+        >
+        
+    </asp:AccessDataSource>
+    </form>
+</body>
+</html>

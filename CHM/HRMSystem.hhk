@@ -1,0 +1,2500 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<!-- Sitemap 1.0 -->
+<!-- Put Java help object tag here -->
+</HEAD>
+<BODY>
+<UL>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "...">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnSubdivision">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "&#60; Add">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEmpStatusAdd">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "&#60; Remove">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportRemoveField">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Add">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProAdd">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsAdd">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnSubordinateAdd">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportAdd">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryAdd">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipAdd">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceAdd">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesAdd">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseAdd">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacAdd">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageAdd">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupAdd">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnSubordinateAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageAdd">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupAdd">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Add &#62;">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportAddField">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Add Employment Status">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnAddEmploymentStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Add Pay Grade">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnAddPayGrade">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnBirthDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnBirthDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnChildDateofBirth">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnChildDateofBirth">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnDateofExpiry">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnDateofExpiry">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnExpiryDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnExpiryDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnINineReviewDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnINineReviewDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnIssuedDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnIssuedDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "btnJoinedDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnJoinedDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Cancel">
+   <param name="Name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_btnCancel">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesCancel">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ChangePassword.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_btnCancel">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesCancel">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Change Password">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_btnChangePasswordPush">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "changepassword">
+   <param name="Name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_changepassword">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_changepassword">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_changepassword">
+   <param name="Name" Value = "Default.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_changepassword">
+   <param name="Name" Value = "Email_Notification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_changepassword">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_changepassword">
+   <param name="Name" Value = "Help.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_changepassword">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_changepassword">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_changepassword">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_changepassword">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_changepassword">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_changepassword">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_changepassword">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_changepassword">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_changepassword">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_changepassword">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ChangePassword.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Default.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Email_Notification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Help.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_changepassword">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_changepassword">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkActive">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_chkActive">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkActivity">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_chkActivity">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkAdd">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_chkAdd">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkContainsHeader">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_chkContainsHeader">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkCustomer">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_chkCustomer">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkCustomExport">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_chkCustomExport">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkCustomFields">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_chkCustomFields">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkCustomImport">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_chkCustomImport">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkDelete">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_chkDelete">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkEdit">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_chkEdit">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkImmigration">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_chkImmigration">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkProject">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_chkProject">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkSendTestEmail">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_chkSendTestEmail">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkSmoker">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_chkSmoker">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "chkView">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_chkView">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbAdminUserGroup">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbAdminUserGroup">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbAdminUserGroupSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbAdminUserGroupSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbAdminUserStatus">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbAdminUserStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCitizen">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbCitizen">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCountries">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbCountries">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCountry">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_cmbCountry">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCurrency">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbCurrency">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCustomers">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_cmbCustomers">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCustomerSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_cmbCustomerSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCustomExport">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_cmbCustomExport">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbCustomImportSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_cmbCustomImportSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEducationSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_cmbEducationSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEEOCategory">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbEEOCategory">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEEOJobCategorySearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbEEOJobCategorySearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEmployeeSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbEmployeeSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEmploymentStatus">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbEmploymentStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEmpStatSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbEmpStatSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbESSUsersSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbESSUsersSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbESSUserStatus">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbESSUserStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEthnicRace">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbEthnicRace">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbEthnicRaceSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_cmbEthnicRaceSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbExportType">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_cmbExportType">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbFieldNumber">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_cmbFieldNumber">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbFieldType">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_cmbFieldType">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbHRAdminUserSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbHRAdminUserSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbImportHRDataDescription">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_cmbImportHRDataDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbJobSpecification">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbJobSpecification">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbJobSpecSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbJobSpecSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbJobTitle">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbJobTitle">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_cmbJobTitle">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbJobTitle">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_cmbJobTitle">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbJobTitleSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbJobTitleSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbJobVacSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_cmbJobVacSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbLanguageSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_cmbLanguageSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbLicenseSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_cmbLicenseSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbLocCountry">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_cmbLocCountry">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbMartialStatus">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbMartialStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbMembershipMembershipType">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_cmbMembershipMembershipType">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbMembershipSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_cmbMembershipSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbMembershipTypeSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_cmbMembershipTypeSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbModules">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_cmbModules">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbNationality">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbNationality">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbNationalitySearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_cmbNationalitySearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbPayGrade">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbPayGrade">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbPayGradeSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_cmbPayGradeSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbProjects">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_cmbProjects">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbProjectSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_cmbProjectSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbReportingMethod">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbReportingMethod">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_cmbSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbSkillSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_cmbSkillSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbSupervisorSubordinate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_cmbSupervisorSubordinate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Default.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Default.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Delete">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProDelete">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsDelete">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnSubordinateDelete">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportDelete">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryDelete">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipDelete">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceDelete">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesDelete">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseDelete">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacDelete">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageDelete">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupDelete">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnSubordinateDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageDelete">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupDelete">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnLocEditSave">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsEditSave">
+   <param name="Name" Value = "Email_Notification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_btnMailConfigEditSave">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryEditSave">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipEditSave">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceEditSave">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesEditSave">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseEditSave">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacEditSave">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageEditSave">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnUserGroupEditSave">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnLocEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_btnCustomFieldsEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Email_Notification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_btnMailConfigEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategoryEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectActivitiesEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnUserGroupEditSave">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit Employment Status">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEditEmploymentStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit Pay Grade">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEditPayGrade">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Email_Notification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Export">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnExportData">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "FailureText">
+   <param name="Name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_FailureText">
+   <param name="Name" Value = "Login.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_FailureText">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ChangePassword.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_FailureText">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Login.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_FailureText">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "fileCSV">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_fileCSV">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "filePhotograph">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_filePhotograph">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "filePIMPicture">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_filePIMPicture">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Help.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Help.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "imgEmpPhotograph">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_imgEmpPhotograph">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "imgEmpPicture">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_imgEmpPicture">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Import">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnImport">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lnkRights">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_lnkRights">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Log In">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_LoginButton">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Login.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "LoginStatus">
+   <param name="Name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_LoginStatus">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_LoginStatus">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_LoginStatus">
+   <param name="Name" Value = "Default.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_LoginStatus">
+   <param name="Name" Value = "Email_Notification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_LoginStatus">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_LoginStatus">
+   <param name="Name" Value = "Help.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_LoginStatus">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_LoginStatus">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_LoginStatus">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_LoginStatus">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_LoginStatus">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_LoginStatus">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_LoginStatus">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_LoginStatus">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_LoginStatus">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_LoginStatus">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ChangePassword.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Default.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Email_Notification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Help.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_LoginStatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_LoginStatus">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Logout.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Logout.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstAssignedFields">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_lstAssignedFields">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstAssignedFlds">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_lstAssignedFlds">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstAvailableFields">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_lstAvailableFields">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstAvailableFlds">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_lstAvailableFlds">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstEmpStatus">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_lstEmpStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "lstJobTitle">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_lstJobTitle">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "mnuEmployment">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_mnuEmployment">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "mnuNav">
+   <param name="Name" Value = "ChangePassword.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_mnuNav">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_mnuNav">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_mnuNav">
+   <param name="Name" Value = "Default.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_mnuNav">
+   <param name="Name" Value = "Email_Notification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_mnuNav">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_mnuNav">
+   <param name="Name" Value = "Help.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_mnuNav">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_mnuNav">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_mnuNav">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_mnuNav">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_mnuNav">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_mnuNav">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_mnuNav">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_mnuNav">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_mnuNav">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_mnuNav">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ChangePassword.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Default.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Default.htm#Default_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Email_Notification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Help.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Help.htm#Help_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_mnuNav">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_mnuNav">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "mnuPersonal">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_mnuPersonal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "MultiView1">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_MultiView1">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_MultiView1">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_MultiView1">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_MultiView1">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_MultiView1">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_MultiView1">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_MultiView1">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_MultiView1">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_MultiView1">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_MultiView1">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_MultiView1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_MultiView1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_MultiView1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "mvwEmployee">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_mvwEmployee">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Password">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_Password">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "RadioButtonList1">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_RadioButtonList1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rdoGender">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_rdoGender">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rdoNoSSLTLS">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_rdoNoSSLTLS">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rdoYesNo">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_rdoYesNo">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "RememberMe">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_RememberMe">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Remove &#62;">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEmpStatusRemove">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Reset">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAssignedRightsReset">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptAdminUser">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_rptAdminUser">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptcurrency">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptcurrency">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEducation">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_rptEducation">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEEOJobCategory">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptEEOJobCategory">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEmergencyContacts">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_rptEmergencyContacts">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEmployee">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_rptEmployee">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEmploymentStatus">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptEmploymentStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEssUser">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_rptEssUser">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptEthnicRaces">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_rptEthnicRaces">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptJobSpecification">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptJobSpecification">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptJobTitle">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptJobTitle">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptJobVacancy">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_rptJobVacancy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptLanguage">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_rptLanguage">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptLicense">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_rptLicense">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptLocation">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_rptLocation">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptMembership">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_rptMembership">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptMembershipType">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_rptMembershipType">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptNationality">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_rptNationality">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptPayGrade">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_rptPayGrade">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptProperty">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_rptProperty">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptSkills">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_rptSkills">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptSubordinate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_rptSubordinate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptSupervisor">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_rptSupervisor">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptUserGroup">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_rptUserGroup">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "rptUserRights">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_rptUserRights">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Save">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProSave">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnReportToEditSave">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportSave">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnCurrencyEditSave">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAssignedRightsSave">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnProSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnReportToEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnCurrencyEditSave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAssignedRightsSave">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Search">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnLocSearch">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnEmployeeSearch">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportSearch">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategorySearch">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipSearch">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceSearch">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectSearch">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseSearch">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacSearch">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageSearch">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupSearch">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_btnLocSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_btnEmployeeSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_btnCustomImportSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_btnEEOJobCategorySearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_btnMembershipSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_btnEthnicRaceSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_btnProjectSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_btnLicenseSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_btnJobVacSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_btnLanguageSearch">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_btnAdminUserGroupSearch">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "TreeView1">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_TreeView1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAddress1">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtAddress1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAddress2">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtAddress2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAdminConfirmPassword">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtAdminConfirmPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAdminEmployee">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtAdminEmployee">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAdminPassword">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtAdminPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAdminUserGroupSearch">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtAdminUserGroupSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtAdminUserName">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtAdminUserName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtChildDateofBirth">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtChildDateofBirth">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtChildName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtChildName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCity">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtCity">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCityTown">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtCityTown">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtComments">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtComments">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCompanyName">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtCompanyName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtConfirmNewPassword">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_txtConfirmNewPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtContactHomeTelephone">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtContactHomeTelephone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtContactMobile">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtContactMobile">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtContactName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtContactName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtContactRelationship">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtContactRelationship">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtContactWorkTelephone">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtContactWorkTelephone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCurrentPassword">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_txtCurrentPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomerDescription">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtCustomerDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomerName">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtCustomerName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomerSearchFor">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtCustomerSearchFor">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomExport">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_txtCustomExport">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomExportSearchFor">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_txtCustomExportSearchFor">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomImportName">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_txtCustomImportName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtCustomImportSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_txtCustomImportSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtDateofExpiry">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtDateofExpiry">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtDependentName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtDependentName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtDependentRelationship">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtDependentRelationship">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtDOB">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtDOB">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtDriversLicense">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtDriversLicense">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEducationCourse">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_txtEducationCourse">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEducationInstitute">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_txtEducationInstitute">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEducationSearch">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_txtEducationSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEEOJobCategorySearch">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtEEOJobCategorySearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEEOJobCategoryTitle">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtEEOJobCategoryTitle">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEmpCode">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtEmpCode">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEmployee">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtEmployee">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEmployeeSearch">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtEmployeeSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEmploymentSearchFor">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtEmploymentSearchFor">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEmpStatName">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtEmpStatName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtESSConfirmPassword">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtESSConfirmPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtESSEmployee">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtESSEmployee">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtESSPassword">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtESSPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtESSUserName">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtESSUserName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtESSUsersSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtESSUsersSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEthnicRaceName">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_txtEthnicRaceName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtEthnicRaceSearch">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_txtEthnicRaceSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtFax">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtFax">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtFieldName">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_txtFieldName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtFirstName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtFirstName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtFromEmail">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtFromEmail">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtHiringManager">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_txtHiringManager">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtHomeTelephone">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtHomeTelephone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtHRAdminUserSearch">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtHRAdminUserSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtINine">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtINine">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtINineReviewDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtINineReviewDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtIssuedDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtIssuedDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobDescription">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobDescription">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_txtJobDescription">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobDescription">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_txtJobDescription">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobEmpStatus">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobEmpStatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobSpecDescription">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobSpecDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobSpecDuties">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobSpecDuties">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobSpecName">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobSpecName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobSpecSearch">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobSpecSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobTitleComments">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobTitleComments">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobTitleName">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobTitleName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobTitleSearchFor">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtJobTitleSearchFor">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJobVacSearch">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_txtJobVacSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtJoinedDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtJoinedDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLanguageName">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_txtLanguageName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLanguageSearch">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_txtLanguageSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLastName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtLastName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLicenseDescription">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_txtLicenseDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLicenseExpiryDate">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtLicenseExpiryDate">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLicenseSearch">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_txtLicenseSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocAddress">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocAddress">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocCity">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocCity">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocComments">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocComments">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocFax">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocFax">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocName">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocPhone">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocPhone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocState">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocState">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtLocZipCode">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtLocZipCode">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMaxSalary">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtMaxSalary">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMembershipName">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_txtMembershipName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMembershipSearch">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_txtMembershipSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMembershipTypeName">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_txtMembershipTypeName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMembershipTypeSearch">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_txtMembershipTypeSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMiddleName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtMiddleName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMilitaryService">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtMilitaryService">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMinSalary">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtMinSalary">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtMobile">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtMobile">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNAICS">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtNAICS">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNationalityName">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_txtNationalityName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNationalitySearch">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_txtNationalitySearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNewPassword">
+   <param name="Local" Value = "HRMSystem_Form_ChangePassword.htm#ChangePassword_aspx_txtNewPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNickName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtNickName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtNISNo">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtNISNo">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtOtherEmail">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtOtherEmail">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtOtherID">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtOtherID">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPassportVisaNo">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPassportVisaNo">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPayGradeName">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtPayGradeName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPayGradeSearch">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtPayGradeSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPhone">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtPhone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPIMCode">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPIMCode">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPIMFirstName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPIMFirstName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPIMLastName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPIMLastName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPIMMiddleName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPIMMiddleName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPIMNickName">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtPIMNickName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtProjectActivity">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtProjectActivity">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtProjectDescription">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtProjectDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtProjectName">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtProjectName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtProjectSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_txtProjectSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtPropertyName">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtPropertyName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSearchBy">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtSearchBy">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSkillDescription">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_txtSkillDescription">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSkillName">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_txtSkillName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSkillSearch">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_txtSkillSearch">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSMTPHost">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtSMTPHost">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSMTPPassword">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtSMTPPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSMTPPort">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtSMTPPort">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSMTPUser">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtSMTPUser">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtState">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtState">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtStateProvince">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtStateProvince">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtStepIncrease">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_txtStepIncrease">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtStreet1">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtStreet1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtStreet2">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtStreet2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtSubdivison">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtSubdivison">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtTaxID">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtTaxID">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtTestEmailAddress">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_txtTestEmailAddress">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtTRNNo">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtTRNNo">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtUserGroupName">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_txtUserGroupName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtWorkEmail">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtWorkEmail">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtWorkTelephone">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtWorkTelephone">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtZipCode">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtZipCode">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtZIPCode">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_txtZipCode">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_txtZIPCode">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "UserName">
+   <param name="Local" Value = "HRMSystem_Form_Login.htm#Login_aspx_UserName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ValidationSummary1">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary1">
+   <param name="Name" Value = "CustomFields.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_ValidationSummary1">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_ValidationSummary1">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary1">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary1">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary1">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CustomFields.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CustomFields.htm#CustomFields_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ValidationSummary2">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary2">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_ValidationSummary2">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary2">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary2">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_ValidationSummary2">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_ValidationSummary2">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary2">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_ValidationSummary2">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_ValidationSummary2">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_ValidationSummary2">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_ValidationSummary2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ValidationSummary3">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary3">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary3">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary3">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_ValidationSummary3">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_ValidationSummary3">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary3">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_ValidationSummary3">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_ValidationSummary3">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary3">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_ValidationSummary3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary3">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ValidationSummary4">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary4">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary4">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary4">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_ValidationSummary4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_ValidationSummary4">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ValidationSummary5">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_ValidationSummary5">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "valSummary">
+   <param name="Local" Value = "HRMSystem_Form_Email_Notification.htm#Email_Notification_aspx_valSummary">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View1">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View1">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View1">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View1">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View1">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View1">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View1">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View1">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View1">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View1">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View1">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View2">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View2">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View2">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View2">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View2">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View2">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View2">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View2">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View2">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View2">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View2">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View3">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View3">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View3">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View3">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View3">
+   <param name="Name" Value = "Membership.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View3">
+   <param name="Name" Value = "Nationaity_Race.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View3">
+   <param name="Name" Value = "ProjectInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View3">
+   <param name="Name" Value = "Qualification.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View3">
+   <param name="Name" Value = "Recruitment.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View3">
+   <param name="Name" Value = "Skills.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View3">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View3">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Membership.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Membership.htm#Membership_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Nationaity_Race.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Nationaity_Race.htm#Nationaity_Race_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "ProjectInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_ProjectInfo.htm#ProjectInfo_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Qualification.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Qualification.htm#Qualification_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Recruitment.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Recruitment.htm#Recruitment_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Skills.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Skills.htm#Skills_aspx_View3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View3">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View4">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View4">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View4">
+   <param name="Name" Value = "Import_Export.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View4">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View4">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View4">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Import_Export.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Import_Export.htm#Import_Export_aspx_View4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View4">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View5">
+   <param name="Name" Value = "CompanyInfo.aspx">
+   <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View5">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View5">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View5">
+   <param name="Name" Value = "Users.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View5">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CompanyInfo.aspx">
+     <param name="Local" Value = "HRMSystem_Form_CompanyInfo.htm#CompanyInfo_aspx_View5">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View5">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View5">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Users.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Users.htm#Users_aspx_View5">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View6">
+   <param name="Name" Value = "Employee.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View6">
+   <param name="Name" Value = "Job.aspx">
+   <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View6">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Employee.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View6">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Job.aspx">
+     <param name="Local" Value = "HRMSystem_Form_Job.htm#Job_aspx_View6">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "View7">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_View7">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwContactDetails">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwContactDetails">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwDependents">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwDependents">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwEmergencyContacts">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwEmergencyContacts">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwImmigration">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwImmigration">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwJob">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwJob">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwPersonalDetails">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwPersonalDetails">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwPhotograph">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwPhotograph">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "vwReportTo">
+   <param name="Local" Value = "HRMSystem_Form_Employee.htm#Employee_aspx_vwReportTo">
+   </OBJECT>
+</UL>
+</BODY>
+</HTML>
+

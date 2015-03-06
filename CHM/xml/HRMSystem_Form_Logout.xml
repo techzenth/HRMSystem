@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Logout.aspx" Text = "Logout.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Logout.jpg" HtmlFileName="HRMSystem_Form_Logout.htm" HelpContextId = "3490" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Logout.aspx" >
+<Documented>
+</Documented>
+</Form>

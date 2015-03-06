@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<HelpGenProject>
+  <Project level = "1" Name = "HRMSystem" SUID = "{6B96951E-C44B-4BA7-AC1B-7B498E7E59F9}" HUID = "{E0943586-8672-408F-8A4D-8454BDEBE3A5}"  caption = "HRMSystem"  TemplateHtmlFile = "Welcome.htm"  GeneratedHtmlFile = "Welcome.htm"  PicsSubfolderName = "images\"  Charset = "windows-1252" 
+          key="Project" 
+          icon="hlpclose" 
+          title="HRMSystem"  >
+    <Introduction level = "2"  caption = "Introduction"  TemplateHtmlFile = "Welcome.htm"  GeneratedHtmlFile = "Welcome.htm" 
+            key="Introduction" 
+            pkey="Project" 
+            nnodekey="GetStart" 
+            icon="helptopic" 
+            title="Introduction"  />
+    <GetStart level = "2"  caption = "Getting Started"  TemplateHtmlFile = "GettingStarted.htm"  GeneratedHtmlFile = "GettingStarted.htm" 
+            key="GetStart" 
+            pkey="Project" 
+            pnodekey="Introduction" 
+            nnodekey="Tutorial" 
+            icon="hlpclose" 
+            title="Getting Started"  >
+      <Install level = "3"  caption = "Installation"  TemplateHtmlFile = "Installation.htm"  GeneratedHtmlFile = "Installation.htm" 
+              key="Install" 
+              pkey="GetStart" 
+              nnodekey="StartProgram" 
+              icon="helptopic" 
+              title="Installation"  />
+      <StartProgram level = "3"  caption = "Starting the program"  TemplateHtmlFile = "StartingTheProgram.htm"  GeneratedHtmlFile = "StartingTheProgram.htm" 
+              key="StartProgram" 
+              pkey="GetStart" 
+              pnodekey="Install" 
+              icon="helptopic" 
+              title="Starting the program"  />
+    </GetStart>
+    <Tutorial level = "2"  caption = "Tutorial"  TemplateHtmlFile = "Tutorial.htm"  GeneratedHtmlFile = "Tutorial.htm" 
+            key="Tutorial" 
+            pkey="Project" 
+            pnodekey="GetStart" 
+            nnodekey="Dialogs" 
+            icon="helptopic" 
+            title="Tutorial"  />
+    <Dialogs level = "2"  caption = "Forms"  TemplateHtmlFile = "Dialogs.htm"  GeneratedHtmlFile = "Dialogs.htm" 
+            key="Dialogs" 
+            pkey="Project" 
+            pnodekey="Tutorial" 
+            nnodekey="Registration" 
+            icon="hlpclose" 
+            title="Forms" 
+            ProcessCode="1"  >
+      <FORM level = "3"  name = "ChangePassword"  type = "2"  caption = "ChangePassword"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_ChangePassword.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_ChangePassword" 
+              pkey="Dialogs" 
+              nnodekey="HRMSystem.Form_CompanyInfo" 
+              icon="hlpclose" 
+              title="ChangePassword" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "CompanyInfo"  type = "2"  caption = "CompanyInfo"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_CompanyInfo.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_CompanyInfo" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_ChangePassword" 
+              nnodekey="HRMSystem.Form_CustomFields" 
+              icon="hlpclose" 
+              title="CompanyInfo" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "CustomFields"  type = "2"  caption = "CustomFields"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_CustomFields.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_CustomFields" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_CompanyInfo" 
+              nnodekey="HRMSystem.Form_Default" 
+              icon="hlpclose" 
+              title="CustomFields" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Default"  type = "2"  caption = "Default"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Default.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Default" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_CustomFields" 
+              nnodekey="HRMSystem.Form_Email_Notification" 
+              icon="hlpclose" 
+              title="Default" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Email_Notification"  type = "2"  caption = "Email_Notification"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Email_Notification.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Email_Notification" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Default" 
+              nnodekey="HRMSystem.Form_Employee" 
+              icon="hlpclose" 
+              title="Email_Notification" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Employee"  type = "2"  caption = "Employee"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Employee.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Employee" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Email_Notification" 
+              nnodekey="HRMSystem.Form_Help" 
+              icon="hlpclose" 
+              title="Employee" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Help"  type = "2"  caption = "Help"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Help.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Help" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Employee" 
+              nnodekey="HRMSystem.Form_Import_Export" 
+              icon="hlpclose" 
+              title="Help" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Import_Export"  type = "2"  caption = "Import_Export"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Import_Export.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Import_Export" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Help" 
+              nnodekey="HRMSystem.Form_Job" 
+              icon="hlpclose" 
+              title="Import_Export" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Job"  type = "2"  caption = "Job"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Job.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Job" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Import_Export" 
+              nnodekey="HRMSystem.Form_Login" 
+              icon="hlpclose" 
+              title="Job" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Login"  type = "2"  caption = "Login"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Login.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Login" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Job" 
+              nnodekey="HRMSystem.Form_Membership" 
+              icon="hlpclose" 
+              title="Login" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Membership"  type = "2"  caption = "Membership"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Membership.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Membership" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Login" 
+              nnodekey="HRMSystem.Form_Nationaity_Race" 
+              icon="hlpclose" 
+              title="Membership" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Nationaity_Race"  type = "2"  caption = "Nationaity_Race"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Nationaity_Race.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Nationaity_Race" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Membership" 
+              nnodekey="HRMSystem.Form_ProjectInfo" 
+              icon="hlpclose" 
+              title="Nationaity_Race" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "ProjectInfo"  type = "2"  caption = "ProjectInfo"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_ProjectInfo.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_ProjectInfo" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Nationaity_Race" 
+              nnodekey="HRMSystem.Form_Qualification" 
+              icon="hlpclose" 
+              title="ProjectInfo" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Qualification"  type = "2"  caption = "Qualification"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Qualification.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Qualification" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_ProjectInfo" 
+              nnodekey="HRMSystem.Form_Recruitment" 
+              icon="hlpclose" 
+              title="Qualification" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Recruitment"  type = "2"  caption = "Recruitment"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Recruitment.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Recruitment" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Qualification" 
+              nnodekey="HRMSystem.Form_Skills" 
+              icon="hlpclose" 
+              title="Recruitment" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Skills"  type = "2"  caption = "Skills"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Skills.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Skills" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Recruitment" 
+              nnodekey="HRMSystem.Form_Users" 
+              icon="hlpclose" 
+              title="Skills" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Users"  type = "2"  caption = "Users"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "HRMSystem_Form_Users.htm"  SourceProjectType = "ASP.NET"  SourceProjectName = "HRMSystem" 
+              key="HRMSystem.Form_Users" 
+              pkey="Dialogs" 
+              pnodekey="HRMSystem.Form_Skills" 
+              icon="hlpclose" 
+              title="Users" 
+              ProcessCode="999"  />
+    </Dialogs>
+    <Registration level = "2"  caption = "Registration"  TemplateHtmlFile = "Registration.htm"  GeneratedHtmlFile = "Registration.htm" 
+            key="Registration" 
+            pkey="Project" 
+            pnodekey="Dialogs" 
+            nnodekey="Support" 
+            icon="helptopic" 
+            title="Registration"  />
+    <Support level = "2"  caption = "Support"  TemplateHtmlFile = "Support.htm"  GeneratedHtmlFile = "Support.htm" 
+            key="Support" 
+            pkey="Project" 
+            pnodekey="Registration" 
+            nnodekey="Copyright" 
+            icon="helptopic" 
+            title="Support"  />
+    <Copyright level = "2"  caption = "Copyright"  TemplateHtmlFile = "Copyright.htm"  GeneratedHtmlFile = "Copyright.htm" 
+            key="Copyright" 
+            pkey="Project" 
+            pnodekey="Support" 
+            icon="helptopic" 
+            title="Copyright"  />
+  </Project>
+<Settings>
+<Options>
+    <Option Name = "Version" Value = "5.012" />
+    <Option Name = "Application" Value = "HRMSystem" />
+    <Option Name = "Organization" Value = "" />
+    <Option Name = "Author" Value = "andre" />
+    <Option Name = "Copyright" Value = "" />
+    <Option Name = "Website" Value = "http:&#47;&#47;" />
+    <Option Name = "EMail" Value = "" />
+    <Option Name = "Registration" Value = "http:&#47;&#47;" />
+    <Option Name = "IdentifyBy" Value = "Caption" />
+    <Option Name = "SnapshotFormat" Value = "Jpeg" />
+    <Option Name = "BulletedControlsAndMenus" Value = "true" />
+    <Option Name = "AddHotSpots" Value = "false" />
+    <Option Name = "AssociateHelpIndex" Value = "true" />
+    <Option Name = "NoReportsScreenshots" Value = "true" />
+    <Option Name = "FolderForGeneratedHelp" Value = "{Project Location}CHM" />
+    <Option Name = "CompileHTMLHelp" Value = "true" />
+    <Option Name = "OpenHTMLHelp" Value = "false" />
+    <Option Name = "SaveApplicationChanges" Value = "true" />
+    <Option Name = "Charset" Value = "windows&#45;1252" />
+    <Option Name = "AddControlsListForMenuList" Value = "false" />
+    <Option Name = "AddControlsSectionForMenuList" Value = "false" />
+    <Option Name = "AddImageForForm" Value = "false" />
+    <Option Name = "AddHotSpotsForForm" Value = "false" />
+    <Option Name = "AddControlsListForForm" Value = "true" />
+    <Option Name = "AddControlsSectionForForm" Value = "true" />
+    <Option Name = "AddImageForReport" Value = "false" />
+    <Option Name = "AddControlsListForReport" Value = "true" />
+    <Option Name = "AddControlsSectionForReport" Value = "true" />
+    <Option Name = "SubFolderForScreenshots" Value = "images&#92;" />
+    <Option Name = "FillIndexFromAppObjectsAndControls" Value = "true" />
+    <Option Name = "Language" Value = "English" />
+    <Option Name = "AddSearchTabToHelp" Value = "true" />
+    <Option Name = "CapturePreviewAreaOnly" Value = "false" />
+    <Option Name = "OpenHTMLEditor" Value = "true" />
+    <Option Name = "SkipInvisibleControls" Value = "true" />
+    <Option Name = "InsertExternalDescriptions" Value = "false" />
+    <Option Name = "ListOfTagsToParseContentsFrom" Value = "H2" />
+    <Option Name = "SyncTOCOnHTMLPageNavigationComplete" Value = "true" />
+    <Option Name = "GenerateHelpForForms" Value = "true" />
+    <Option Name = "GenerateHelpForReports" Value = "true" />
+    <Option Name = "CSSFullPath" Value = "" />
+    <Option Name = "MakeNormalViewScreenshots" Value = "false" />
+    <Option Name = "LanguageCode" Value = "" />
+    <Option Name = "GenerateHelpForTables" Value = "true" />
+    <Option Name = "MSWordTOCLowerHeadingLevel" Value = "2" />
+    <Option Name = "AutomatedTestModeOn" Value = "false" />
+    <Option Name = "GenerateHelpForQueries" Value = "true" />
+    <Option Name = "GenerateHelpForMacros" Value = "true" />
+    <Option Name = "UseProjectGroupAsSource" Value = "false" />
+    <Option Name = "UnattendedExecution" Value = "false" />
+    <Option Name = "HelpProjectTitle" Value = "HRMSystem" />
+    <Option Name = "HelpProjectName" Value = "HRMSystem" />
+</Options>
+</Settings>
+</HelpGenProject>

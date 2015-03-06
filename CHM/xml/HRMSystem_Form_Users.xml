@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Users.aspx" Text = "Users.aspx" WindowSize = "0, 0" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" PicFileName="HRMSystem_Form_Users.jpg" HtmlFileName="HRMSystem_Form_Users.htm" HelpContextId = "5140" NewHelpContextIdsCount = "1" SourceProjectType = "ASP.NET" SourceProjectName = "HRMSystem" OriginalClassName = "clsWinForm" Indexes = "Users.aspx" >
+<Controls>
+  <clsWinFormControl Name = "View5" Text = "View5" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5150" HotSpot = "0,0,0,0" Level = "1" Indexes = "View5" />
+  <clsWinFormControl Name = "ValidationSummary4" Text = "ValidationSummary4" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5160" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary4" />
+  <clsWinFormControl Name = "btnAssignedRightsReset" Text = "Reset" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5170" HotSpot = "0,0,0,0" Level = "1" Indexes = "Reset" />
+  <clsWinFormControl Name = "rptUserRights" Text = "rptUserRights" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5180" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptUserRights" />
+  <clsWinFormControl Name = "btnAssignedRightsSave" Text = "Save" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5190" HotSpot = "0,0,0,0" Level = "1" Indexes = "Save" />
+  <clsWinFormControl Name = "chkView" Text = "chkView" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5200" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkView" />
+  <clsWinFormControl Name = "chkDelete" Text = "chkDelete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5210" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkDelete" />
+  <clsWinFormControl Name = "chkEdit" Text = "chkEdit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5220" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkEdit" />
+  <clsWinFormControl Name = "chkAdd" Text = "chkAdd" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5230" HotSpot = "0,0,0,0" Level = "1" Indexes = "chkAdd" />
+  <clsWinFormControl Name = "cmbModules" Text = "cmbModules" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5240" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbModules" />
+  <clsWinFormControl Name = "View4" Text = "View4" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5250" HotSpot = "0,0,0,0" Level = "1" Indexes = "View4" />
+  <clsWinFormControl Name = "rptUserGroup" Text = "rptUserGroup" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5260" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptUserGroup" />
+  <clsWinFormControl Name = "btnAdminUserGroupDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5270" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnAdminUserGroupAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5280" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnAdminUserGroupSearch" Text = "Search" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5290" HotSpot = "0,0,0,0" Level = "1" Indexes = "Search" />
+  <clsWinFormControl Name = "txtAdminUserGroupSearch" Text = "txtAdminUserGroupSearch" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5300" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtAdminUserGroupSearch" />
+  <clsWinFormControl Name = "cmbAdminUserGroupSearchBy" Text = "cmbAdminUserGroupSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5310" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbAdminUserGroupSearchBy" />
+  <clsWinFormControl Name = "ValidationSummary3" Text = "ValidationSummary3" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5320" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary3" />
+  <clsWinFormControl Name = "lnkRights" Text = "lnkRights" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5330" HotSpot = "0,0,0,0" Level = "1" Indexes = "lnkRights" />
+  <clsWinFormControl Name = "btnUserGroupEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5340" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "txtUserGroupName" Text = "txtUserGroupName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5350" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtUserGroupName" />
+  <clsWinFormControl Name = "View3" Text = "View3" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5360" HotSpot = "0,0,0,0" Level = "1" Indexes = "View3" />
+  <clsWinFormControl Name = "rptEssUser" Text = "rptEssUser" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5370" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptEssUser" />
+  <clsWinFormControl Name = "btnESSUsersDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5380" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnESSUsersAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5390" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnESSUsersSearch" Text = "Search" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5400" HotSpot = "0,0,0,0" Level = "1" Indexes = "Search" />
+  <clsWinFormControl Name = "txtESSUsersSearchBy" Text = "txtESSUsersSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5410" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtESSUsersSearchBy" />
+  <clsWinFormControl Name = "cmbESSUsersSearchBy" Text = "cmbESSUsersSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5420" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbESSUsersSearchBy" />
+  <clsWinFormControl Name = "ValidationSummary2" Text = "ValidationSummary2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5430" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary2" />
+  <clsWinFormControl Name = "btnESSEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5440" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "txtESSEmployee" Text = "txtESSEmployee" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5450" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtESSEmployee" />
+  <clsWinFormControl Name = "cmbESSUserStatus" Text = "cmbESSUserStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5460" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbESSUserStatus" />
+  <clsWinFormControl Name = "txtESSConfirmPassword" Text = "txtESSConfirmPassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5470" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtESSConfirmPassword" />
+  <clsWinFormControl Name = "txtESSPassword" Text = "txtESSPassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5480" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtESSPassword" />
+  <clsWinFormControl Name = "txtESSUserName" Text = "txtESSUserName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5490" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtESSUserName" />
+  <clsWinFormControl Name = "View2" Text = "View2" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5500" HotSpot = "0,0,0,0" Level = "1" Indexes = "View2" />
+  <clsWinFormControl Name = "rptAdminUser" Text = "rptAdminUser" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5510" HotSpot = "0,0,0,0" Level = "1" Indexes = "rptAdminUser" />
+  <clsWinFormControl Name = "btnHRAdminUserDelete" Text = "Delete" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5520" HotSpot = "0,0,0,0" Level = "1" Indexes = "Delete" />
+  <clsWinFormControl Name = "btnHRAdminUserAdd" Text = "Add" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5530" HotSpot = "0,0,0,0" Level = "1" Indexes = "Add" />
+  <clsWinFormControl Name = "btnHRAdminUserSearch" Text = "Search" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5540" HotSpot = "0,0,0,0" Level = "1" Indexes = "Search" />
+  <clsWinFormControl Name = "txtHRAdminUserSearch" Text = "txtHRAdminUserSearch" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5550" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtHRAdminUserSearch" />
+  <clsWinFormControl Name = "cmbHRAdminUserSearchBy" Text = "cmbHRAdminUserSearchBy" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5560" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbHRAdminUserSearchBy" />
+  <clsWinFormControl Name = "ValidationSummary1" Text = "ValidationSummary1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5570" HotSpot = "0,0,0,0" Level = "1" Indexes = "ValidationSummary1" />
+  <clsWinFormControl Name = "btnHRAdminUsersEditSave" Text = "Edit" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5580" HotSpot = "0,0,0,0" Level = "1" Indexes = "Edit" />
+  <clsWinFormControl Name = "cmbAdminUserGroup" Text = "cmbAdminUserGroup" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5590" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbAdminUserGroup" />
+  <clsWinFormControl Name = "txtAdminEmployee" Text = "txtAdminEmployee" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5600" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtAdminEmployee" />
+  <clsWinFormControl Name = "cmbAdminUserStatus" Text = "cmbAdminUserStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5610" HotSpot = "0,0,0,0" Level = "1" Indexes = "cmbAdminUserStatus" />
+  <clsWinFormControl Name = "txtAdminConfirmPassword" Text = "txtAdminConfirmPassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5620" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtAdminConfirmPassword" />
+  <clsWinFormControl Name = "txtAdminPassword" Text = "txtAdminPassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5630" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtAdminPassword" />
+  <clsWinFormControl Name = "txtAdminUserName" Text = "txtAdminUserName" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5640" HotSpot = "0,0,0,0" Level = "1" Indexes = "txtAdminUserName" />
+  <clsWinFormControl Name = "View1" Text = "View1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5650" HotSpot = "0,0,0,0" Level = "1" Indexes = "View1" />
+  <clsWinFormControl Name = "MultiView1" Text = "MultiView1" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5660" HotSpot = "0,0,0,0" Level = "1" Indexes = "MultiView1" />
+  <clsWinFormControl Name = "mnuNav" Text = "mnuNav" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5670" HotSpot = "0,0,0,0" Level = "1" Indexes = "mnuNav" />
+  <clsWinFormControl Name = "LoginStatus" Text = "LoginStatus" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5680" HotSpot = "0,0,0,0" Level = "1" Indexes = "LoginStatus" />
+  <clsWinFormControl Name = "changepassword" Text = "changepassword" ClassName = "clsWinFormControl" OriginalClassName = "System.__ComObject" Location = "0, 0" Size = "0, 0" TabIndex = "0" HelpContextId = "5690" HotSpot = "0,0,0,0" Level = "1" Indexes = "changepassword" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="View5" Bmk="View5" Caption="View5"  />
+<Item  Name="ValidationSummary4" Bmk="ValidationSummary4" Caption="ValidationSummary4"  />
+<Item  Name="btnAssignedRightsReset" Bmk="btnAssignedRightsReset" Caption="Reset"  />
+<Item  Name="rptUserRights" Bmk="rptUserRights" Caption="rptUserRights"  />
+<Item  Name="btnAssignedRightsSave" Bmk="btnAssignedRightsSave" Caption="Save"  />
+<Item  Name="chkView" Bmk="chkView" Caption="chkView"  />
+<Item  Name="chkDelete" Bmk="chkDelete" Caption="chkDelete"  />
+<Item  Name="chkEdit" Bmk="chkEdit" Caption="chkEdit"  />
+<Item  Name="chkAdd" Bmk="chkAdd" Caption="chkAdd"  />
+<Item  Name="cmbModules" Bmk="cmbModules" Caption="cmbModules"  />
+<Item  Name="View4" Bmk="View4" Caption="View4"  />
+<Item  Name="rptUserGroup" Bmk="rptUserGroup" Caption="rptUserGroup"  />
+<Item  Name="btnAdminUserGroupDelete" Bmk="btnAdminUserGroupDelete" Caption="Delete"  />
+<Item  Name="btnAdminUserGroupAdd" Bmk="btnAdminUserGroupAdd" Caption="Add"  />
+<Item  Name="btnAdminUserGroupSearch" Bmk="btnAdminUserGroupSearch" Caption="Search"  />
+<Item  Name="txtAdminUserGroupSearch" Bmk="txtAdminUserGroupSearch" Caption="txtAdminUserGroupSearch"  />
+<Item  Name="cmbAdminUserGroupSearchBy" Bmk="cmbAdminUserGroupSearchBy" Caption="cmbAdminUserGroupSearchBy"  />
+<Item  Name="ValidationSummary3" Bmk="ValidationSummary3" Caption="ValidationSummary3"  />
+<Item  Name="lnkRights" Bmk="lnkRights" Caption="lnkRights"  />
+<Item  Name="btnUserGroupEditSave" Bmk="btnUserGroupEditSave" Caption="Edit"  />
+<Item  Name="txtUserGroupName" Bmk="txtUserGroupName" Caption="txtUserGroupName"  />
+<Item  Name="View3" Bmk="View3" Caption="View3"  />
+<Item  Name="rptEssUser" Bmk="rptEssUser" Caption="rptEssUser"  />
+<Item  Name="btnESSUsersDelete" Bmk="btnESSUsersDelete" Caption="Delete"  />
+<Item  Name="btnESSUsersAdd" Bmk="btnESSUsersAdd" Caption="Add"  />
+<Item  Name="btnESSUsersSearch" Bmk="btnESSUsersSearch" Caption="Search"  />
+<Item  Name="txtESSUsersSearchBy" Bmk="txtESSUsersSearchBy" Caption="txtESSUsersSearchBy"  />
+<Item  Name="cmbESSUsersSearchBy" Bmk="cmbESSUsersSearchBy" Caption="cmbESSUsersSearchBy"  />
+<Item  Name="ValidationSummary2" Bmk="ValidationSummary2" Caption="ValidationSummary2"  />
+<Item  Name="btnESSEditSave" Bmk="btnESSEditSave" Caption="Edit"  />
+<Item  Name="txtESSEmployee" Bmk="txtESSEmployee" Caption="txtESSEmployee"  />
+<Item  Name="cmbESSUserStatus" Bmk="cmbESSUserStatus" Caption="cmbESSUserStatus"  />
+<Item  Name="txtESSConfirmPassword" Bmk="txtESSConfirmPassword" Caption="txtESSConfirmPassword"  />
+<Item  Name="txtESSPassword" Bmk="txtESSPassword" Caption="txtESSPassword"  />
+<Item  Name="txtESSUserName" Bmk="txtESSUserName" Caption="txtESSUserName"  />
+<Item  Name="View2" Bmk="View2" Caption="View2"  />
+<Item  Name="rptAdminUser" Bmk="rptAdminUser" Caption="rptAdminUser"  />
+<Item  Name="btnHRAdminUserDelete" Bmk="btnHRAdminUserDelete" Caption="Delete"  />
+<Item  Name="btnHRAdminUserAdd" Bmk="btnHRAdminUserAdd" Caption="Add"  />
+<Item  Name="btnHRAdminUserSearch" Bmk="btnHRAdminUserSearch" Caption="Search"  />
+<Item  Name="txtHRAdminUserSearch" Bmk="txtHRAdminUserSearch" Caption="txtHRAdminUserSearch"  />
+<Item  Name="cmbHRAdminUserSearchBy" Bmk="cmbHRAdminUserSearchBy" Caption="cmbHRAdminUserSearchBy"  />
+<Item  Name="ValidationSummary1" Bmk="ValidationSummary1" Caption="ValidationSummary1"  />
+<Item  Name="btnHRAdminUsersEditSave" Bmk="btnHRAdminUsersEditSave" Caption="Edit"  />
+<Item  Name="cmbAdminUserGroup" Bmk="cmbAdminUserGroup" Caption="cmbAdminUserGroup"  />
+<Item  Name="txtAdminEmployee" Bmk="txtAdminEmployee" Caption="txtAdminEmployee"  />
+<Item  Name="cmbAdminUserStatus" Bmk="cmbAdminUserStatus" Caption="cmbAdminUserStatus"  />
+<Item  Name="txtAdminConfirmPassword" Bmk="txtAdminConfirmPassword" Caption="txtAdminConfirmPassword"  />
+<Item  Name="txtAdminPassword" Bmk="txtAdminPassword" Caption="txtAdminPassword"  />
+<Item  Name="txtAdminUserName" Bmk="txtAdminUserName" Caption="txtAdminUserName"  />
+<Item  Name="View1" Bmk="View1" Caption="View1"  />
+<Item  Name="MultiView1" Bmk="MultiView1" Caption="MultiView1"  />
+<Item  Name="mnuNav" Bmk="mnuNav" Caption="mnuNav"  />
+<Item  Name="LoginStatus" Bmk="LoginStatus" Caption="LoginStatus"  />
+<Item  Name="changepassword" Bmk="changepassword" Caption="changepassword"  />
+</Controls>
+</Documented>
+</Form>
